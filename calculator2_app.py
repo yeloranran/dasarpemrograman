@@ -15,14 +15,14 @@ result = None
 
 if st.button("Calculate"):
     if operation == "Add":
-        result = add(x, y)
+        result = math_operation.add(x, y)
     elif operation == "Subtract":
-        result = subtract(x, y)
+        result = math_operation.subtract(x, y)
     elif operation == "Multiply":
-        result = multiply(x, y)
+        result = math_operation.multiply(x, y)
     elif operation == "Divide":
         try:
-            result = divide(x, y)
+            result = math_operation.divide(x, y)
         except ZeroDivisionError:
             st.error("Division by zero is not allowed.")
 
