@@ -1,6 +1,7 @@
 # streamlit_calculator.py
 
 import streamlit as st
+import math_operation
 
 st.title("Simple Calculator")
 
