@@ -1,4 +1,1 @@
 # dasarpemrograman
-
-hahahaha
-
