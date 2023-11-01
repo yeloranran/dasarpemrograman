@@ -10,7 +10,7 @@
 * [Loop](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/looping.ipynb)
 
 #
-Data Structure
+* Data Structure
     
 [Dictionary](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Dictionary.ipynb)
     
@@ -21,7 +21,7 @@ Data Structure
 [Tuple](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Tuple.ipynb)
 
 #
-Modular
+* Modular
     
    [Calculator 2](https://github.com/yeloranran/dasarpemrograman/blob/7effca08e65f5b855ef52e4d38fb947b49289734/calculator2_app.py)
    
@@ -29,7 +29,7 @@ Modular
      
  #    
 
-[Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
+* [Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
     
     
 
