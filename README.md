@@ -11,10 +11,14 @@
 
 #
 Data Structure
-    [Dictionary](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Dictionary.ipynb)
-    [List](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_List.ipynb)
-    [Sets](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Sets.ipynb)
-    [Tuple](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Tuple.ipynb)
+    
+[Dictionary](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Dictionary.ipynb)
+    
+[List](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_List.ipynb)
+   
+[Sets](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Sets.ipynb)
+
+[Tuple](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Tuple.ipynb)
 
 #
 Modular
