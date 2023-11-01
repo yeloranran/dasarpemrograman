@@ -23,7 +23,7 @@ Modular
      
  #    
 
-*[Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
+[Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
     
     
 
